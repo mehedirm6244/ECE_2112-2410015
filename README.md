@@ -47,5 +47,5 @@ _**Heaven’s Light is Our Guide**_
 
 | Index No. | Title | Link | 
 | :---: | :---: | :---: |  
-| 01 | Implementation of Logic Gates Using Universal Gates, Full Adder, and Binary to BCD Converter | [Lab 01](https://github.com/mehedirm6244/ECE-2112_2410015/blob/main/reports/lab01/) |
+| 01 | Implementation of Logic Gates Using Universal Gates, Full Adder, and Binary to BCD Converter | [Lab 01](https://github.com/mehedirm6244/ECE_2112-2410015/blob/main/reports/lab01/) |
 </div>
